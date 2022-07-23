@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1658561390,,"q"
+|2,0,1658564268,,"q"
 :q!
 |2,0,1658556829,,"q!"
 :wq
@@ -55,32 +55,42 @@ $
 |3,0,7,1,1,0,1658552538,"[mysqld]"
 
 # File marks:
-'0  21  7  /etc/mysql/mysql.cnf
-|4,48,21,7,1658561390,"/etc/mysql/mysql.cnf"
-'1  23  7  /etc/mysql/mysql.cnf
-|4,49,23,7,1658560601,"/etc/mysql/mysql.cnf"
+'0  1  13  /etc/nginx/nginx.conf
+|4,48,1,13,1658564268,"/etc/nginx/nginx.conf"
+'1  21  7  /etc/mysql/mysql.cnf
+|4,49,21,7,1658561390,"/etc/mysql/mysql.cnf"
 '2  23  7  /etc/mysql/mysql.cnf
 |4,50,23,7,1658560601,"/etc/mysql/mysql.cnf"
-'3  1  0  /etc/mysql/conf.d/mysql.cnf
-|4,51,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
-'4  22  0  /etc/mysql/my.cnf
-|4,52,22,0,1658560526,"/etc/mysql/my.cnf"
-'5  11  19  /etc/selinux/config
-|4,53,11,19,1658556829,"/etc/selinux/config"
-'6  2  0  /etc/selinux/config
-|4,54,2,0,1658556798,"/etc/selinux/config"
+'3  23  7  /etc/mysql/mysql.cnf
+|4,51,23,7,1658560601,"/etc/mysql/mysql.cnf"
+'4  1  0  /etc/mysql/conf.d/mysql.cnf
+|4,52,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+'5  22  0  /etc/mysql/my.cnf
+|4,53,22,0,1658560526,"/etc/mysql/my.cnf"
+'6  11  19  /etc/selinux/config
+|4,54,11,19,1658556829,"/etc/selinux/config"
 '7  2  0  /etc/selinux/config
 |4,55,2,0,1658556798,"/etc/selinux/config"
-'8  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,56,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
-'9  22  0  /etc/mysql/my.cnf
-|4,57,22,0,1658552553,"/etc/mysql/my.cnf"
+'8  2  0  /etc/selinux/config
+|4,56,2,0,1658556798,"/etc/selinux/config"
+'9  10  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,57,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
 
 # Jumplist (newest first):
+-'  1  13  /etc/nginx/nginx.conf
+|4,39,1,13,1658564268,"/etc/nginx/nginx.conf"
+-'  3  24  /etc/nginx/nginx.conf
+|4,39,3,24,1658564210,"/etc/nginx/nginx.conf"
+-'  21  7  /etc/mysql/mysql.cnf
+|4,39,21,7,1658561390,"/etc/mysql/mysql.cnf"
 -'  21  7  /etc/mysql/mysql.cnf
 |4,39,21,7,1658561390,"/etc/mysql/mysql.cnf"
 -'  23  7  /etc/mysql/mysql.cnf
 |4,39,23,7,1658560715,"/etc/mysql/mysql.cnf"
+-'  23  7  /etc/mysql/mysql.cnf
+|4,39,23,7,1658560715,"/etc/mysql/mysql.cnf"
+-'  23  7  /etc/mysql/mysql.cnf
+|4,39,23,7,1658560601,"/etc/mysql/mysql.cnf"
 -'  23  7  /etc/mysql/mysql.cnf
 |4,39,23,7,1658560601,"/etc/mysql/mysql.cnf"
 -'  1  0  /etc/mysql/conf.d/mysql.cnf
@@ -91,6 +101,30 @@ $
 |4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
 -'  1  0  /etc/mysql/conf.d/mysql.cnf
 |4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+-'  1  0  /etc/mysql/conf.d/mysql.cnf
+|4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+-'  1  0  /etc/mysql/conf.d/mysql.cnf
+|4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+-'  1  0  /etc/mysql/conf.d/mysql.cnf
+|4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+-'  1  0  /etc/mysql/conf.d/mysql.cnf
+|4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
 -'  22  0  /etc/mysql/my.cnf
 |4,39,22,0,1658560526,"/etc/mysql/my.cnf"
 -'  22  0  /etc/mysql/my.cnf
@@ -139,6 +173,70 @@ $
 |4,39,11,19,1658556829,"/etc/selinux/config"
 -'  11  19  /etc/selinux/config
 |4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
 -'  1  0  /etc/selinux/config
 |4,39,1,0,1658556802,"/etc/selinux/config"
 -'  1  0  /etc/selinux/config
@@ -179,106 +277,17 @@ $
 |4,39,2,0,1658556798,"/etc/selinux/config"
 -'  2  0  /etc/selinux/config
 |4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  2  0  /etc/selinux/config
-|4,39,2,0,1658556798,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  1  0  /etc/selinux/config
-|4,39,1,0,1658556776,"/etc/selinux/config"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
 
 # History of marks within files (newest to oldest):
+
+> /etc/nginx/nginx.conf
+	*	1658564267	0
+	"	1	13
+	^	3	25
+	.	3	24
+	+	28	0
+	+	27	48
+	+	3	24
 
 > /etc/mysql/mysql.cnf
 	*	1658561386	0
@@ -309,15 +318,6 @@ $
 > /etc/nginx/isuports.conf
 	*	1658543624	0
 	"	1	0
-
-> /etc/nginx/nginx.conf
-	*	1658542919	0
-	"	3	24
-	^	3	25
-	.	3	24
-	+	28	0
-	+	27	48
-	+	3	24
 
 > /etc/nginx/sites-available/isuports.conf
 	*	1658542479	0
