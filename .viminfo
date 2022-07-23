@@ -10,11 +10,20 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
+:q!
+|2,0,1658541629,,"q!"
 :wq
-|2,0,1658540579,,"wq"
+|2,0,1658541617,,"wq"
+:q
+|2,0,1658541549,,"q"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1658541069,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -25,16 +34,64 @@
 # Registers:
 
 # File marks:
-'0  2  3  ~/.gitignore
-|4,48,2,3,1658540579,"~/.gitignore"
+'0  26  48  /etc/nginx/nginx.conf
+|4,48,26,48,1658541629,"/etc/nginx/nginx.conf"
+'1  83  1  /etc/nginx/nginx.conf
+|4,49,83,1,1658541549,"/etc/nginx/nginx.conf"
+'2  6  79  /etc/nginx/conf.d
+|4,50,6,79,1658541087,"/etc/nginx/conf.d"
+'3  2  3  ~/.gitignore
+|4,51,2,3,1658540579,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  26  48  /etc/nginx/nginx.conf
+|4,39,26,48,1658541629,"/etc/nginx/nginx.conf"
+-'  83  1  /etc/nginx/nginx.conf
+|4,39,83,1,1658541549,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1658541499,"/etc/nginx/nginx.conf"
+-'  1  0  /etc/nginx/nginx.conf
+|4,39,1,0,1658541099,"/etc/nginx/nginx.conf"
+-'  6  79  /etc/nginx/conf.d
+|4,39,6,79,1658541087,"/etc/nginx/conf.d"
+-'  6  79  /etc/nginx/conf.d
+|4,39,6,79,1658541087,"/etc/nginx/conf.d"
+-'  6  79  /etc/nginx/conf.d
+|4,39,6,79,1658541087,"/etc/nginx/conf.d"
+-'  2  3  ~/.gitignore
+|4,39,2,3,1658540579,"~/.gitignore"
+-'  2  3  ~/.gitignore
+|4,39,2,3,1658540579,"~/.gitignore"
+-'  2  3  ~/.gitignore
+|4,39,2,3,1658540579,"~/.gitignore"
+-'  2  3  ~/.gitignore
+|4,39,2,3,1658540579,"~/.gitignore"
+-'  2  3  ~/.gitignore
+|4,39,2,3,1658540579,"~/.gitignore"
 -'  2  3  ~/.gitignore
 |4,39,2,3,1658540579,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1658540560,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658540560,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658540560,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658540560,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658540560,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658540560,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> /etc/nginx/nginx.conf
+	*	1658541627	0
+	"	26	48
+	^	26	49
+	.	26	48
+	+	27	0
+	+	26	48
 
 > ~/.gitignore
 	*	1658540577	0
