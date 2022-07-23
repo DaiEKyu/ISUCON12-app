@@ -419,3 +419,17 @@ sudo service mysql restart
 cd ~
 sudo git pull
 sudo reboot
+top
+exit
+cd /etc
+cd nginx
+sudo vi nginx.conf
+sudo systemctl restart nginx.service
+sudo systemctl status nginx.service
+nginx -t
+sudo vi nginx.conf
+sudo systemctl restart nginx.service
+sudo systemctl status nginx.service
+sudo vi nginx.conf
+sudo systemctl restart nginx.service
+sudo systemctl status nginx.service
