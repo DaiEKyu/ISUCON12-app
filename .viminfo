@@ -15,11 +15,11 @@ $
 
 # Command Line History (newest to oldest):
 :q!
-|2,0,1658541629,,"q!"
+|2,0,1658556829,,"q!"
 :wq
-|2,0,1658541617,,"wq"
+|2,0,1658556825,,"wq"
 :q
-|2,0,1658541549,,"q"
+|2,0,1658556315,,"q"
 
 # Search String History (newest to oldest):
 ? @$
@@ -32,66 +32,292 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	read_rnd_buffer_size = 32M
+|3,1,1,1,1,0,1658552542,"read_rnd_buffer_size = 32M"
+"2	LINE	0
+	sort_buffer_size = 16M
+|3,0,2,1,1,0,1658552542,"sort_buffer_size = 16M"
+"3	LINE	0
+	read_buffer_size = 16M
+|3,0,3,1,1,0,1658552541,"read_buffer_size = 16M"
+"4	LINE	0
+	key_buffer_size = 512M
+|3,0,4,1,1,0,1658552541,"key_buffer_size = 512M"
+"5	LINE	0
+	thread_cache_size=128
+|3,0,5,1,1,0,1658552540,"thread_cache_size=128"
+"6	LINE	0
+	max_connections=10
+|3,0,6,1,1,0,1658552540,"max_connections=10"
+"7	LINE	0
+	[mysqld]
+|3,0,7,1,1,0,1658552538,"[mysqld]"
 
 # File marks:
-'0  26  48  /etc/nginx/nginx.conf
-|4,48,26,48,1658541629,"/etc/nginx/nginx.conf"
-'1  83  1  /etc/nginx/nginx.conf
-|4,49,83,1,1658541549,"/etc/nginx/nginx.conf"
-'2  6  79  /etc/nginx/conf.d
-|4,50,6,79,1658541087,"/etc/nginx/conf.d"
-'3  2  3  ~/.gitignore
-|4,51,2,3,1658540579,"~/.gitignore"
+'0  11  19  /etc/selinux/config
+|4,48,11,19,1658556829,"/etc/selinux/config"
+'1  2  0  /etc/selinux/config
+|4,49,2,0,1658556798,"/etc/selinux/config"
+'2  2  0  /etc/selinux/config
+|4,50,2,0,1658556798,"/etc/selinux/config"
+'3  10  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,51,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
+'4  22  0  /etc/mysql/my.cnf
+|4,52,22,0,1658552553,"/etc/mysql/my.cnf"
+'5  23  15  /etc/mysql/mysql.cnf
+|4,53,23,15,1658546211,"/etc/mysql/mysql.cnf"
+'6  23  15  /etc/mysql/mysql.cnf
+|4,54,23,15,1658545557,"/etc/mysql/mysql.cnf"
+'7  23  15  /etc/mysql/mysql.cnf
+|4,55,23,15,1658545364,"/etc/mysql/mysql.cnf"
+'8  23  15  /etc/mysql/mysql.cnf
+|4,56,23,15,1658545364,"/etc/mysql/mysql.cnf"
+'9  1  0  /etc/nginx/isuports.conf
+|4,57,1,0,1658543631,"/etc/nginx/isuports.conf"
 
 # Jumplist (newest first):
--'  26  48  /etc/nginx/nginx.conf
-|4,39,26,48,1658541629,"/etc/nginx/nginx.conf"
--'  83  1  /etc/nginx/nginx.conf
-|4,39,83,1,1658541549,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1658541499,"/etc/nginx/nginx.conf"
--'  1  0  /etc/nginx/nginx.conf
-|4,39,1,0,1658541099,"/etc/nginx/nginx.conf"
--'  6  79  /etc/nginx/conf.d
-|4,39,6,79,1658541087,"/etc/nginx/conf.d"
--'  6  79  /etc/nginx/conf.d
-|4,39,6,79,1658541087,"/etc/nginx/conf.d"
--'  6  79  /etc/nginx/conf.d
-|4,39,6,79,1658541087,"/etc/nginx/conf.d"
--'  2  3  ~/.gitignore
-|4,39,2,3,1658540579,"~/.gitignore"
--'  2  3  ~/.gitignore
-|4,39,2,3,1658540579,"~/.gitignore"
--'  2  3  ~/.gitignore
-|4,39,2,3,1658540579,"~/.gitignore"
--'  2  3  ~/.gitignore
-|4,39,2,3,1658540579,"~/.gitignore"
--'  2  3  ~/.gitignore
-|4,39,2,3,1658540579,"~/.gitignore"
--'  2  3  ~/.gitignore
-|4,39,2,3,1658540579,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1658540560,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1658540560,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1658540560,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1658540560,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1658540560,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1658540560,"~/.gitignore"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556776,"/etc/selinux/config"
+-'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
+-'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
+-'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
+-'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
+-'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
+-'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
+-'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
+-'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658552553,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658552553,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658552553,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658552553,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658552553,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658552553,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658552553,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658552553,"/etc/mysql/my.cnf"
+-'  1  0  /etc/mysql/my.cnf
+|4,39,1,0,1658552531,"/etc/mysql/my.cnf"
+-'  1  0  /etc/mysql/my.cnf
+|4,39,1,0,1658552531,"/etc/mysql/my.cnf"
+-'  1  0  /etc/mysql/my.cnf
+|4,39,1,0,1658552531,"/etc/mysql/my.cnf"
+-'  1  0  /etc/mysql/my.cnf
+|4,39,1,0,1658552531,"/etc/mysql/my.cnf"
+-'  1  0  /etc/mysql/my.cnf
+|4,39,1,0,1658552531,"/etc/mysql/my.cnf"
+-'  1  0  /etc/mysql/my.cnf
+|4,39,1,0,1658552531,"/etc/mysql/my.cnf"
+-'  1  0  /etc/mysql/my.cnf
+|4,39,1,0,1658552531,"/etc/mysql/my.cnf"
+-'  1  0  /etc/mysql/my.cnf
+|4,39,1,0,1658552531,"/etc/mysql/my.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658546211,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545557,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  23  15  /etc/mysql/mysql.cnf
+|4,39,23,15,1658545364,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
+-'  1  0  /etc/mysql/mysql.cnf
+|4,39,1,0,1658545323,"/etc/mysql/mysql.cnf"
 
 # History of marks within files (newest to oldest):
 
+> /etc/selinux/config
+	*	1658556827	0
+	"	11	19
+	^	11	20
+	.	11	19
+	+	2	0
+	+	11	19
+
+> /usr/lib/systemd/system/fwupd-refresh.service
+	*	1658556313	0
+	"	10	0
+
+> /etc/mysql/my.cnf
+	*	1658552551	0
+	"	22	0
+	.	23	0
+	+	23	0
+
+> /etc/mysql/mysql.cnf
+	*	1658546208	0
+	"	23	15
+
+> /etc/nginx/isuports.conf
+	*	1658543624	0
+	"	1	0
+
 > /etc/nginx/nginx.conf
-	*	1658541627	0
-	"	26	48
-	^	26	49
-	.	26	48
-	+	27	0
-	+	26	48
+	*	1658542919	0
+	"	3	24
+	^	3	25
+	.	3	24
+	+	28	0
+	+	27	48
+	+	3	24
+
+> /etc/nginx/sites-available/isuports.conf
+	*	1658542479	0
+	"	2	2
 
 > ~/.gitignore
 	*	1658540577	0
