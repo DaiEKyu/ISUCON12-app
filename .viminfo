@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1658560601,,"q"
+|2,0,1658561390,,"q"
 :q!
 |2,0,1658556829,,"q!"
 :wq
@@ -55,34 +55,50 @@ $
 |3,0,7,1,1,0,1658552538,"[mysqld]"
 
 # File marks:
-'0  23  7  /etc/mysql/mysql.cnf
-|4,48,23,7,1658560601,"/etc/mysql/mysql.cnf"
-'1  1  0  /etc/mysql/conf.d/mysql.cnf
-|4,49,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
-'2  22  0  /etc/mysql/my.cnf
-|4,50,22,0,1658560526,"/etc/mysql/my.cnf"
-'3  11  19  /etc/selinux/config
-|4,51,11,19,1658556829,"/etc/selinux/config"
-'4  2  0  /etc/selinux/config
-|4,52,2,0,1658556798,"/etc/selinux/config"
-'5  2  0  /etc/selinux/config
-|4,53,2,0,1658556798,"/etc/selinux/config"
-'6  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,54,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
-'7  22  0  /etc/mysql/my.cnf
-|4,55,22,0,1658552553,"/etc/mysql/my.cnf"
-'8  23  15  /etc/mysql/mysql.cnf
-|4,56,23,15,1658546211,"/etc/mysql/mysql.cnf"
-'9  23  15  /etc/mysql/mysql.cnf
-|4,57,23,15,1658545557,"/etc/mysql/mysql.cnf"
+'0  21  7  /etc/mysql/mysql.cnf
+|4,48,21,7,1658561390,"/etc/mysql/mysql.cnf"
+'1  23  7  /etc/mysql/mysql.cnf
+|4,49,23,7,1658560601,"/etc/mysql/mysql.cnf"
+'2  23  7  /etc/mysql/mysql.cnf
+|4,50,23,7,1658560601,"/etc/mysql/mysql.cnf"
+'3  1  0  /etc/mysql/conf.d/mysql.cnf
+|4,51,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+'4  22  0  /etc/mysql/my.cnf
+|4,52,22,0,1658560526,"/etc/mysql/my.cnf"
+'5  11  19  /etc/selinux/config
+|4,53,11,19,1658556829,"/etc/selinux/config"
+'6  2  0  /etc/selinux/config
+|4,54,2,0,1658556798,"/etc/selinux/config"
+'7  2  0  /etc/selinux/config
+|4,55,2,0,1658556798,"/etc/selinux/config"
+'8  10  0  /usr/lib/systemd/system/fwupd-refresh.service
+|4,56,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
+'9  22  0  /etc/mysql/my.cnf
+|4,57,22,0,1658552553,"/etc/mysql/my.cnf"
 
 # Jumplist (newest first):
+-'  21  7  /etc/mysql/mysql.cnf
+|4,39,21,7,1658561390,"/etc/mysql/mysql.cnf"
+-'  23  7  /etc/mysql/mysql.cnf
+|4,39,23,7,1658560715,"/etc/mysql/mysql.cnf"
 -'  23  7  /etc/mysql/mysql.cnf
 |4,39,23,7,1658560601,"/etc/mysql/mysql.cnf"
 -'  1  0  /etc/mysql/conf.d/mysql.cnf
 |4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
 -'  1  0  /etc/mysql/conf.d/mysql.cnf
 |4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+-'  1  0  /etc/mysql/conf.d/mysql.cnf
+|4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+-'  1  0  /etc/mysql/conf.d/mysql.cnf
+|4,39,1,0,1658560566,"/etc/mysql/conf.d/mysql.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
+-'  22  0  /etc/mysql/my.cnf
+|4,39,22,0,1658560526,"/etc/mysql/my.cnf"
 -'  22  0  /etc/mysql/my.cnf
 |4,39,22,0,1658560526,"/etc/mysql/my.cnf"
 -'  22  0  /etc/mysql/my.cnf
@@ -107,6 +123,38 @@ $
 |4,39,11,19,1658556829,"/etc/selinux/config"
 -'  11  19  /etc/selinux/config
 |4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  11  19  /etc/selinux/config
+|4,39,11,19,1658556829,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556802,"/etc/selinux/config"
 -'  1  0  /etc/selinux/config
 |4,39,1,0,1658556802,"/etc/selinux/config"
 -'  1  0  /etc/selinux/config
@@ -155,6 +203,54 @@ $
 |4,39,2,0,1658556798,"/etc/selinux/config"
 -'  2  0  /etc/selinux/config
 |4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  2  0  /etc/selinux/config
+|4,39,2,0,1658556798,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556776,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556776,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556776,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556776,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556776,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556776,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556776,"/etc/selinux/config"
+-'  1  0  /etc/selinux/config
+|4,39,1,0,1658556776,"/etc/selinux/config"
 -'  1  0  /etc/selinux/config
 |4,39,1,0,1658556776,"/etc/selinux/config"
 -'  1  0  /etc/selinux/config
@@ -181,108 +277,12 @@ $
 |4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
 -'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
 |4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  10  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,10,0,1658556315,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
--'  1  0  /usr/lib/systemd/system/fwupd-refresh.service
-|4,39,1,0,1658555788,"/usr/lib/systemd/system/fwupd-refresh.service"
 
 # History of marks within files (newest to oldest):
 
 > /etc/mysql/mysql.cnf
-	*	1658560590	0
-	"	23	7
+	*	1658561386	0
+	"	21	7
 
 > /etc/mysql/conf.d/mysql.cnf
 	*	1658560562	0
